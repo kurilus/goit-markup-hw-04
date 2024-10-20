@@ -271,6 +271,10 @@ img {
     gap: 24px;
 }
 
+.team-contacts {
+    gap: 24px;
+}
+
 .team-item {
     background-color: #FFFFFF;
     gap: 32px;
